@@ -34,7 +34,6 @@ class _BannerScreenState extends State<BannerScreen> {
           alignment: Alignment.topLeft,
           padding: const EdgeInsets.all(10),
           child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const Text(
                 'Banner Screen',

@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'package:admin_panel/screens/home_screen.dart';
 import 'package:admin_panel/services/firebase_services.dart';
 import 'package:firebase_auth/firebase_auth.dart';

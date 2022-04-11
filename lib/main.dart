@@ -6,6 +6,7 @@ import 'package:admin_panel/screens/login_screen.dart';
 import 'package:admin_panel/screens/notification_screen.dart';
 import 'package:admin_panel/screens/orders_screen.dart';
 import 'package:admin_panel/screens/settings_screen.dart';
+import 'package:admin_panel/screens/vendor_screen.dart';
 
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/cupertino.dart';
@@ -45,6 +46,7 @@ class MyApp extends StatelessWidget {
         NotificationScreen.id: (context) => NotificationScreen(),
         SettingsScreen.id: (context) => SettingsScreen(),
         CategoryScreen.id: (context) => CategoryScreen(),
+        VendorScreen.id: (context) => VendorScreen(),
       },
     );
   }
