@@ -1,4 +1,4 @@
-import 'package:admin_panel/widgets/vendor_dataTable_widget.dart';
+import 'package:admin_panel/widgets/vendor/vendor_dataTable_widget.dart';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_admin_scaffold/admin_scaffold.dart';

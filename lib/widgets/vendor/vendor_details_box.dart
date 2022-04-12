@@ -1,11 +1,10 @@
-import 'dart:html';
 import 'dart:ui';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
-import '../services/firebase_services.dart';
+import '../../services/firebase_services.dart';
 
 class VendorDetailsBox extends StatefulWidget {
   final String uid;

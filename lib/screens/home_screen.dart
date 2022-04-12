@@ -1,10 +1,3 @@
-import 'package:admin_panel/screens/admin_users_screen.dart';
-import 'package:admin_panel/screens/banner_screen.dart';
-import 'package:admin_panel/screens/category_screen.dart';
-import 'package:admin_panel/screens/login_screen.dart';
-import 'package:admin_panel/screens/notification_screen.dart';
-import 'package:admin_panel/screens/orders_screen.dart';
-import 'package:admin_panel/screens/settings_screen.dart';
 import 'package:admin_panel/services/sidebar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

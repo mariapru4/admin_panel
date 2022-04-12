@@ -1,7 +1,7 @@
 import 'dart:html';
 import 'package:admin_panel/services/firebase_services.dart';
 import 'package:admin_panel/services/sidebar.dart';
-import 'package:admin_panel/widgets/banner_widget.dart';
+import 'package:admin_panel/widgets/banner/banner_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_admin_scaffold/admin_scaffold.dart';
 import 'package:firebase/firebase.dart' as fb;
